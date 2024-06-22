@@ -1,6 +1,8 @@
 # NumeriXCore
 High-Performance Numerical Analysis Library for Web Applications
 
+## Acknowledgements
+
 This library was developed with insights gained from various textbooks and academic resources on numerical analysis. Key references that informed the principles and methods applied in this library include:
 
 - Süli, E., & Mayers, D. F. (2003). An Introduction to Numerical Analysis. Cambridge: Cambridge University Press.
