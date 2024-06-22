@@ -1,5 +1,4 @@
-# NumeriXCore
-High-Performance Numerical Analysis Library for Web Applications
+# NumeriXCore: High-Performance Numerical Analysis Library for Web Applications
 
 ## Acknowledgements
 
