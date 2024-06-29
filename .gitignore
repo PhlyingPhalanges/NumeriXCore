@@ -1,0 +1,86 @@
+# Ignore build directories
+/build/
+*/build/
+
+# Ignore binary and object files
+/bin/
+*/bin/
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+*.dylib
+*.a
+*.lib
+
+# Ignore dependency directories
+/deps/
+*/deps/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# Ignore CMake build files
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/*.cmake
+/*.dir
+/*.ninja
+/*.ninja_deps
+/*.ninja_log
+/build.ninja
+/rules.ninja
+
+# Ignore user-specific config files
+*.user
+
+# Ignore auto-generated files
+*.gch
+
+# Ignore coverage files
+*.gcno
+*.gcda
+
+# Ignore other files
+tags
+*.bak
+*.orig
+*.rej
+
+# Ignore Emscripten specific files
+*.wasm
+*.js
+*.html
+*.data
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build artifacts
+*.out
+
+# Ignore package files
+*.tgz
+*.zip
+*.tar.gz
