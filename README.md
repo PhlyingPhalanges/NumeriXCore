@@ -87,6 +87,7 @@ int main() {
     std::cout << "Root: " << result << std::endl;
     return 0;
 }
+```
 
 ## Acknowledgements
 
